@@ -1,0 +1,21 @@
+[submodule "OrderService"]
+	path = OrderService
+	url = git@github.com:Online-Shop-Project-Resume/OrderService.git
+[submodule "NotificationService"]
+	path = NotificationService
+	url = git@github.com:Online-Shop-Project-Resume/NotificationService.git
+[submodule "ProductService"]
+	path = ProductService
+	url = git@github.com:Online-Shop-Project-Resume/ProductService.git
+[submodule "CartService"]
+	path = CartService
+	url = git@github.com:Online-Shop-Project-Resume/CartService.git
+[submodule "InventoryService"]
+	path = InventoryService
+	url = git@github.com:Online-Shop-Project-Resume/InventoryService.git
+[submodule "DiscoveryService"]
+	path = DiscoveryService
+	url = git@github.com:Online-Shop-Project-Resume/DiscoveryService.git
+[submodule "ApiGateway"]
+	path = ApiGateway
+	url = git@github.com:Online-Shop-Project-Resume/ApiGateway.git
